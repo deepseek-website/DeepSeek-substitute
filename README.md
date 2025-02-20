@@ -11,7 +11,7 @@
 
 ## 优秀的DeepSeek平替推荐
 
-## 1\. AI智慧岛
+## 1\. AI智慧岛 [chat.deepseek-free.org](https://chat.deepseek-free.org/)
 
 [AI智慧岛](https://chat.yixiaai.com)是极智科技推出的AI智能助手，能快速回答用户的各种问题，提供智能搜索、文本创作、逻辑推理、灵感辅助、高效阅读和资料整理等功能。AI智慧岛接入了DeepSeek-R1 671b满血版模型**（高速专线），实时联网获取互联网最新信息，还支持文件上传、图片分析、语音输入等多模态功能，无论是AI对话、AI写作、AI翻译、AI绘画、AI识图、AI PPT、AI读文件、AI知识库、AI助手、AI插件、AI语音，都可以使用AI智慧岛得到全面和方便的解答。
 
